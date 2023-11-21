@@ -1,0 +1,6 @@
+com\proyecto\api\spring\IService\IProducto.class
+com\proyecto\api\spring\entities\Producto.class
+com\proyecto\api\spring\repository\ProductoRepository.class
+com\proyecto\api\spring\controller\ProductoController.class
+com\proyecto\api\spring\Application.class
+com\proyecto\api\spring\IService\Impl\ProductoImpl.class
